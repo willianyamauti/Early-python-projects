@@ -1,5 +1,18 @@
 """
 operations suported +,-,/,*,**,
+
+
+** version 0.1
+    -just implemented the basic aritmetics operations
+   
+**for future implementations
+    - improve general coding structure to reflect my programming abillities and knowledge at future time
+    - more aritimetics options
+    -make it more similar to a real calculator
+    - maybe a GUI
+    -build enough for a simple scientific calculator
+ 
+
 """
 
 while True:
